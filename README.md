@@ -13,7 +13,7 @@ Hi, I'm Sahil Sharma, a Full Stack Developer 🚀 from India, I love to solve mi
 <br/>
 <br/>
 
-  <img align="right" height="350px" width="450px" alt="GIF" src="https://i-ps.co.uk/wp-content/uploads/2018/04/gameblog2.gif" />
+  <img align="right" height="350px" width="450px" alt="GIF" src="https://miro.medium.com/max/1360/0*7Q3yvSIv_t0ioJ-Z.gif" />
 
 **Talking about Personal Stuffs:**
 
